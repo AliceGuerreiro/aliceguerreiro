@@ -1,4 +1,4 @@
-### Hi there , eu sou a Alice Guerreiro, estudante de programação 🤗
+### Hi there , eu sou a Alice Guerreiro 🤗
 
 - 🔭 I’m currently working  no Sistema Fiems
 - 🌱 I’m currently learning  Java Script e HTML
