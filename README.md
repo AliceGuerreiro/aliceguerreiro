@@ -1,8 +1,9 @@
-### Hi there , eu sou a Alice Guerreiro 🤗
+### Hi there, I'm Alice Guerreiro 🤗
 
-- 🔭 I’m currently working  SOS DOCS/TJMS
-- 🌱 I’m currently learning  Java Script e Python
-- 😄 Pronouns: ela/dela
+- 🔭 I’m currently working at SOS DOCS/TJMS  
+- 🎓 Graduated in Data Science from the Federal University of Mato Grosso do Sul (UFMS)  
+- 🌱 I’m currently learning JavaScript and Python  
+- 😄 Pronouns: she/her  
 
 ![Alice Guerreiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliceguerreiro&show_icons=true&theme=radical)
 
