@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning JavaScript and Python  
 - 😄 Pronouns: she/her  
 
-![Alice Guerreiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliceguerreiro&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AliceGuerreiro&theme=radical)
 
 
 
