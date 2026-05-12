@@ -21,6 +21,10 @@
     <img src="https://img.shields.io/badge/-Gmail-%233333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
   <a href="https://www.linkedin.com/in/aliceguerreiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.salesforce.com/trailblazer/alicedataflow/" target="_blank">
+  <img src="https://img.shields.io/badge/Trailhead_Profile-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" target="_blank">
+</a>
+  
   
 </div>
 
