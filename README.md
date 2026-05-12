@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working at SOS DOCS/TJMS  
 - 🎓 Graduated in Data Science from the Federal University of Mato Grosso do Sul (UFMS)  
+- 🎓 Postgraduate in Business Intelligence, Big Data and Artificial Intelligence  
 - 🌱 I’m currently learning JavaScript and Python  
 - 😄 Pronouns: she/her  
 
